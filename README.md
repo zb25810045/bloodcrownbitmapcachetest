@@ -1,0 +1,2 @@
+# bloodcrownbitmapcachetest
+使用png图片内存变化探讨
